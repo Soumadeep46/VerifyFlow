@@ -301,7 +301,7 @@ The generated dataset is not real merchant data and must not be interpreted as l
 The main Streamlit application is:
 
 ```bash
-streamlit run app1.py
+streamlit run app.py
 ```
 
 The dashboard normally opens at:
